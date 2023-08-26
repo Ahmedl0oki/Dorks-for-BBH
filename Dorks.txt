@@ -70,3 +70,14 @@ inurl:"bug bounty" and intext:"$" and inurl:/security
 inurl:"bug bounty" and intext:"INR" and inurl:/security
 inurl: "responsible disclosure", "bug bounty", "bugbounty"
 "responsible disclosure" intext:"you may be eligible for monetary compensation"
+inurl /bug bounty
+inurl : / security
+inurl:security.txt
+inurl:security "reward"
+inurl : /responsible disclosure
+inurl : /responsible-disclosure/ reward
+inurl : / responsible-disclosure/ swag
+inurl : / responsible-disclosure/ bounty
+inurl:'/responsible disclosure' hoodie
+intext: we offer a bounty
+white hat program
