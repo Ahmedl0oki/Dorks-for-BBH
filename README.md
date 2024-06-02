@@ -49,3 +49,4 @@ inurl:email= | inurl:phone= | inurl:password= | inurl:secret= inurl:& site:targe
 inurl:config | inurl:env | inurl:setting | inurl:backup | inurl:admin | inurl:php site:example[.]com
 
 ---
+https://my.tomorrowland.com/forgotpassword/confirm?code=290336&email=mal_00%2Buser2%40intigriti.me
