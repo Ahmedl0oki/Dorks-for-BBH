@@ -49,4 +49,4 @@ inurl:email= | inurl:phone= | inurl:password= | inurl:secret= inurl:& site:targe
 inurl:config | inurl:env | inurl:setting | inurl:backup | inurl:admin | inurl:php site:example[.]com
 
 ---
-https://my.tomorrowland.com/forgotpassword/confirm?code=290336&email=mal_00%2Buser2%40intigriti.me
+https://click.pstmrk.it/3s/app.saytechnologies.com%2Fverify-email%2F%3Fkey%3D9qzmvysz6ug3qoibertchrl4rldagq9plegxlmcwqnvy0q4hua2ngs8xx30durdj%26redirect_url%3Dhttps%253A%252F%252Fsaytechnologies.com%252F/gZ9N/qbq1AQ/AQ/45e58196-7aa6-4b69-b4df-848ab1fefc5e/1/L2SBYtnt7p
