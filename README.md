@@ -49,3 +49,4 @@ inurl:email= | inurl:phone= | inurl:password= | inurl:secret= inurl:& site:targe
 inurl:config | inurl:env | inurl:setting | inurl:backup | inurl:admin | inurl:php site:example[.]com
 
 ---
+https://click.pstmrk.it/3s/app.saytechnologies.com%2Fverify-email%2F%3Fkey%3D4glmylxsesk2onucgzgd8tlrbxvty1bdtkksdz6biv186vbwatitch799dfyrfey%26redirect_url%3Dhttps%253A%252F%252Fsaytechnologies.com%252F/gZ9N/q8C1AQ/AQ/4e21ea4a-3ece-46c9-aa47-c7d72f718e47/1/r7L9OOcmLb
