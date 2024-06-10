@@ -50,4 +50,4 @@ inurl:config | inurl:env | inurl:setting | inurl:backup | inurl:admin | inurl:ph
 
 ---
 
-https://www.simscale.com/AccountActivation?email=mal_00%2Battacker%40intigriti.me&token=c0907d26-5d51-49fb-9d48-d44b168c164a
+[https://www.simscale.com/AccountActivation?email=mal_00%2Battacker%40intigriti.me&token=c0907d26-5d51-49fb-9d48-d44b168c164a](https://www.simscale.com/AccountActivation?email=mal_00%2Bnorm-user%40intigriti.me&token=bc42b05c-65a0-4c57-a246-bd5bb84209b2)
